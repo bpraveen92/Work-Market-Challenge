@@ -35,3 +35,9 @@ The list of low paying divisions on an hourly basis are as follows,
 12. Sheriff Administration
 13. Systems Modernization-BTS
 14. Systems Modernization-PTS
+
+## Which jobs do you think are the hardest to fill ?
+
+In my opinion, upon looking at the data and its attributes, I feel that jobs with less number of openings that require candidates to have a minimal qualification of a higher degree such as Master's or Phd and those that also require candidates to have a greater years of experience in their preferred skills are most likely to be tough or hard to fill in.
+
+This is due to the fact that candidates who actually apply for these positions are supposedly well qualified in a multitude of aspects. They seem to have a variety of skills and they also bring in plenty of real time work experience along with them. This makes it really hard for the recruiters to filter out candidates at first place. Secondly, as the salary range begins to go beyond average, the recruiters tend to get into a confused state and that's because they face huge difficulty in ranking the individual's who've applied for those positions. It's basically tough time for the recruiters to find the right fit for those kind of jobs.
