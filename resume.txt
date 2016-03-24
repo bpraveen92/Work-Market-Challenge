@@ -1,0 +1,113 @@
+      PRAVEEN BALASUBRAMANIAN
+
+3001 S King Dr, Apt. #205 • Chicago, IL 60616 • (312) 478-2457 • pbalasu5@hawk.iit.edu
+
+SUMMARY
+
+•	Graduate Degree with a strong foundation in software engineering and programming principles across multiple
+platforms. Experienced in object-oriented programming; developing, testing and debugging code; designing
+interfaces; and administering systems and networks.
+
+
+•	Strong knowledge of Software Development Life-Cycle & agile practices,  Pattern discovery using data mining techniques, Inferential and descriptive statistics to understand the trends in data, expertise in query manipulation and processing. 
+
+•	Relevant Coursework: Intro to Data Mining, Advanced Data Mining, Database Organization, Software Project Management, Advanced Database Organization, Information Retrieval, Online Social network analysis, Software testing and Analysis, Object oriented programming and patterns, Software Engineering.
+EDUCATION		
+Masters in Computer Science (Professional Masters)	May 2016
+Illinois Institute of Technology, Chicago, IL	
+GPA: 3.22/4		
+Bachelor of Engineering in Computer Science and Engineering	May 2014
+Anna University, Chennai, India		
+GPA: 3.1/4
+		
+TECHNICAL SKILLS
+		
+•	Programming Language &Tools ls& tOOLSTTools:	Python, R, SAS, SPSS, C, C++, Weka , Excel, VBA
+
+
+•	Cloud Technologies:	Amazon AWS , IBM Infosphere Enterprise edition
+•	Database:
+	MySQL, SQL, SQL Server, Teradata, MS Access
+
+•	Web Technologies:	Apache Tomcat, HTML
+•
+•
+•		Operating Systems:
+   Big Data Ecosystems/visualization tools: 
+                                                           	Microsoft Windows (Variants)
+Hive, Pentaho, Pivot4j, Tableau, Matplotlib
+ACADEMIC PROJECTS		
+ 
+Cinema Management System	     Fall 2014
+
+Illinois Institute of Technology, Chicago, IL
+
+•	Developed a cinema management application using an oracle database as back-end to store information about movies, rooms, tickets, and so on.
+•	The application supports two types of users. Clients or customers who visit the application to book movie tickets can search for movies and show times, book tickets, and rate movies. Cinema Staff can modify movies, Showtime, and room information, and query user information.
+•	Wrote SQL queries to create, store and perform data manipulation activities on corresponding movie ticketing data attributes.  
+
+
+Data mining with WEKA and Amazon AWS	Fall 2014
+
+Illinois Institute of Technology, Chicago, IL
+
+•	Using data analysis tools (WEKA) performed clustering, classification, association rule mining and visualization on social and business datasets, thereby predicting patterns.
+•	Developed a Word count map reduce framework code and hence used it to perform an evaluation for a large dataset (10 GB) by creating virtual clusters scaling from 1 to 16 nodes using AWS’s EC2 instances.
+•	Generated inferential reports to communicate the trends in the data along with the performance evaluation study which was carried out after every successful analysis. 
+
+
+
+
+
+
+
+Megatron 3000 Database Management System                                                                               Spring 2015
+
+Illinois Institute of Technology, Chicago, IL
+
+•	Built a lighter version of commercially available Relational Database Management Systems in today's market.
+•	We developed and incorporated three core systems of a database such as the Storage manager, buffer manager and the record manager. The storage manager deals with reading blocks from a file on disk into memory and writing blocks from memory to a file on disk.
+•	The buffer manager is responsible for managing a fixed number of pages in memory using the replacement strategies like FIFO, LRU and LFU to fetch blocks from the hard disc in case the Buffer is full.  
+•	The record manager is said to handle tables with a fixed schema. Clients can insert records, delete records, update records, and scan through the records in a table.
+
+Gas Pump Application – Manual Testing                                                                                                 Fall 2015
+
+Illinois Institute of Technology, Chicago, IL
+
+•	Wrote test cases to test the Gas Pump class that exhibited state behavior specified by the EFSM model.
+•	Designed test cases such that all 2-transition sequences testing criterion (all transition-pairs) was satisfied based on the provided EFSM, i.e., all 2-transition sequences were exercised during testing.
+•	Used multiple-condition testing to design additional test cases to test predicates of conditional-statements in operations.
+•	Implemented a testing environment that contained a class test driver to execute test cases. 
+
+
+Data Communication and Visualization	   Fall 2015
+
+Online Certification projects, Chicago, IL
+
+•	Interpreted and created entity-relationship diagrams and relational schemas that describe the contents of specific business databases.
+•	Wrote queries that retrieved and sorted data that met specific criteria, and retrieved such data from real MySQL and Teradata business databases that contain over 1 million rows of data. Also retrieved records and computed calculations that were dependent on dynamic data features, and translated data analysis questions into SQL queries that accommodated the types of anomalies found in real data sets.
+•	Created the most important graphs used in business analysis and transformed data in Tableau.
+•	Designed business dashboards with Tableau with multiple table joins and aggregation functionalities supporting business needs. 
+
+Movie Review Classification and Recommendation system                                                             Fall 2015
+
+Illinois Institute of Technology, Chicago, IL
+
+•	Performed Sentiment analysis on movie reviews collected from the metacritic website through web scrapping with the help of their API. 
+•	Built three types of classification models to predict the reviews to be either positive or negative. Estimated the model performance on both training and testing data and hence evaluated its accuracy. 
+•	Used the Scikit-learn machine learning algorithms to perform the classification task. Developed a simplistic recommender system based on the user-user collaborative filtering technique. 
+•	Experimented by fluctuating the classifier parameters and hence observed the deviance in the model accuracy. 
+
+WORK EXPERIENCE
+
+Information Technology Intern, The Main Street America Group Insurance Company.        June-Jul 2015
+
+Keene, New Hampshire.
+
+•	Engaged in the business requirements and functional specification documentation for system changes.
+•	Assisted clients and BAs with system requirements as needed.
+•	Participated in testing and validation of programmed results.
+•	Worked with Developers and other IT team members to deliver system changes.
+
+
+Github link for projects and certification reference – https://www.github.com/bpraveen92
